@@ -1,0 +1,24 @@
+h2 {
+    color: rgb(255, 230, 0);
+    text-align: center;
+    border: 5px purple groove;
+    background-color: rgb(240, 30, 30);
+    padding: 10px;
+}
+
+p {
+    text-indent: 50px;
+
+}
+
+.destaque {
+    color: blueviolet;
+
+}
+
+#principal {
+    color: black;
+    border: 12px solid 1px;
+    margin: 30px;
+    padding: 20px;
+}
